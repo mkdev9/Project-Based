@@ -659,6 +659,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 ## Generative AI
 
 - [Generative AI Crash Course](https://youtu.be/mEsleV16qdo?si=v457jvcKHloTPXn3)
+- [Various AI Models Overview](https://github.com/steven2358/awesome-generative-ai.git)
 
 ## Additional Resources
 
