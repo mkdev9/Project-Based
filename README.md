@@ -30,7 +30,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Rust](#rust)
 - [Scala](#scala)
 - [Swift](#swift)
-- [TypeScript](#typescript)
+- [Generative AI](#generative-ai)
 - [Additional resources](#additional-resources)
 
 ## C/C++:
@@ -655,6 +655,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 - [Hacking with Swift - Learn Swift by doing 39 projects](https://www.hackingwithswift.com/read)
 - [Retro first-person shooter from scratch](https://github.com/nicklockwood/RetroRampage)
+- [Generative AI Crash Course](https://youtu.be/mEsleV16qdo?si=v457jvcKHloTPXn3)
 
 ## Additional Resources
 
