@@ -30,6 +30,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Rust](#rust)
 - [Scala](#scala)
 - [Swift](#swift)
+- [TypeScript](#typescript)
 - [Additional resources](#additional-resources)
 
 ## C/C++:
